@@ -1,0 +1,29 @@
+D:\Code Files\JobInfo\JobInfo\bin\Debug\JobInfo.exe
+D:\Code Files\JobInfo\JobInfo\bin\Debug\JobInfo.pdb
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.Form1.resources
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.Properties.Resources.resources
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.csproj.GenerateResource.Cache
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.exe
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.pdb
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.csprojResolveAssemblyReference.cache
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.WHView.resources
+D:\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.JobItems.resources
+D:\Projects\Code Files\JobInfo\JobInfo\bin\Debug\JobInfo.exe
+D:\Projects\Code Files\JobInfo\JobInfo\bin\Debug\JobInfo.pdb
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.Form1.resources
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.JobItems.resources
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.Properties.Resources.resources
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.WHView.resources
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.csproj.GenerateResource.Cache
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.exe
+D:\Projects\Code Files\JobInfo\JobInfo\obj\x86\Debug\JobInfo.pdb
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.exe
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.pdb
+C:\Users\Administrator\Source\JobInfo\JobInfo\bin\Debug\JobInfo.exe
+C:\Users\Administrator\Source\JobInfo\JobInfo\bin\Debug\JobInfo.pdb
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.Form1.resources
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.JobItems.resources
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.Properties.Resources.resources
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.WHView.resources
+C:\Users\Administrator\Source\JobInfo\JobInfo\obj\x86\Debug\JobInfo.csproj.GenerateResource.Cache
